@@ -1,0 +1,965 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ITI tasks\\Final project\\Training_ITI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|e:\\iti tasks\\final project\\training_iti\\training_iti\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|solutionrelative:training_iti\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|e:\\iti tasks\\final project\\training_iti\\training_iti\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|solutionrelative:training_iti\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|e:\\iti tasks\\final project\\training_iti\\training_iti\\views\\sessions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|solutionrelative:training_iti\\views\\sessions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|e:\\iti tasks\\final project\\training_iti\\training_iti\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|solutionrelative:training_iti\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|e:\\iti tasks\\final project\\training_iti\\training_iti\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|solutionrelative:training_iti\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|e:\\iti tasks\\final project\\training_iti\\training_iti\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|solutionrelative:training_iti\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|e:\\iti tasks\\final project\\training_iti\\training_iti\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|solutionrelative:training_iti\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|e:\\iti tasks\\final project\\training_iti\\training_iti\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|solutionrelative:training_iti\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|e:\\iti tasks\\final project\\training_iti\\training_iti\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|solutionrelative:training_iti\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|e:\\iti tasks\\final project\\training_iti\\training_iti\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|solutionrelative:training_iti\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|e:\\iti tasks\\final project\\training_iti\\training_iti\\controllers\\sessionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|solutionrelative:training_iti\\controllers\\sessionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|e:\\iti tasks\\final project\\training_iti\\training_iti\\controllers\\gradescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|solutionrelative:training_iti\\controllers\\gradescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/./TrainingManagementDb/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|e:\\iti tasks\\final project\\training_iti\\training_iti\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|solutionrelative:training_iti\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|e:\\iti tasks\\final project\\training_iti\\training_iti\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|solutionrelative:training_iti\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|e:\\iti tasks\\final project\\training_iti\\training_iti\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|solutionrelative:training_iti\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|e:\\iti tasks\\final project\\training_iti\\training_iti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|solutionrelative:training_iti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|e:\\iti tasks\\final project\\training_iti\\training_iti\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|solutionrelative:training_iti\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|e:\\iti tasks\\final project\\training_iti\\training_iti\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|solutionrelative:training_iti\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|e:\\iti tasks\\final project\\training_iti\\training_iti\\data\\migrations\\20250822154304_initialcreate1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|solutionrelative:training_iti\\data\\migrations\\20250822154304_initialcreate1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|e:\\iti tasks\\final project\\training_iti\\training_iti\\data\\migrations\\20250822153715_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|solutionrelative:training_iti\\data\\migrations\\20250822153715_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|e:\\iti tasks\\final project\\training_iti\\training_iti\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|solutionrelative:training_iti\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|e:\\iti tasks\\final project\\training_iti\\training_iti\\data\\migrations\\00000000000000_createidentityschema.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|solutionrelative:training_iti\\data\\migrations\\00000000000000_createidentityschema.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|e:\\iti tasks\\final project\\training_iti\\training_iti\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|solutionrelative:training_iti\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|e:\\iti tasks\\final project\\training_iti\\training_iti\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|solutionrelative:training_iti\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|e:\\iti tasks\\final project\\training_iti\\training_iti\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|solutionrelative:training_iti\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|e:\\iti tasks\\final project\\training_iti\\training_iti\\views\\sessions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|solutionrelative:training_iti\\views\\sessions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|e:\\iti tasks\\final project\\training_iti\\training_iti\\views\\sessions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|solutionrelative:training_iti\\views\\sessions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|e:\\iti tasks\\final project\\training_iti\\training_iti\\views\\sessions\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|solutionrelative:training_iti\\views\\sessions\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|e:\\iti tasks\\final project\\training_iti\\training_iti\\viewmodels\\sessionformvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|solutionrelative:training_iti\\viewmodels\\sessionformvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|e:\\iti tasks\\final project\\training_iti\\training_iti\\views\\grades\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|solutionrelative:training_iti\\views\\grades\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|e:\\iti tasks\\final project\\training_iti\\training_iti\\views\\grades\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|solutionrelative:training_iti\\views\\grades\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|e:\\iti tasks\\final project\\training_iti\\training_iti\\views\\grades\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|solutionrelative:training_iti\\views\\grades\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|e:\\iti tasks\\final project\\training_iti\\training_iti\\views\\grades\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|solutionrelative:training_iti\\views\\grades\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|e:\\iti tasks\\final project\\training_iti\\training_iti\\views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|solutionrelative:training_iti\\views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|e:\\iti tasks\\final project\\training_iti\\training_iti\\views\\courses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|solutionrelative:training_iti\\views\\courses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|e:\\iti tasks\\final project\\training_iti\\training_iti\\views\\courses\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|solutionrelative:training_iti\\views\\courses\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|e:\\iti tasks\\final project\\training_iti\\training_iti\\views\\courses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|solutionrelative:training_iti\\views\\courses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|e:\\iti tasks\\final project\\training_iti\\training_iti\\viewmodels\\gradeformvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|solutionrelative:training_iti\\viewmodels\\gradeformvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|e:\\iti tasks\\final project\\training_iti\\training_iti\\viewmodels\\courseformvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|solutionrelative:training_iti\\viewmodels\\courseformvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|e:\\iti tasks\\final project\\training_iti\\training_iti\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|solutionrelative:training_iti\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|e:\\iti tasks\\final project\\training_iti\\training_iti\\repositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|solutionrelative:training_iti\\repositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|e:\\iti tasks\\final project\\training_iti\\training_iti\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|solutionrelative:training_iti\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|e:\\iti tasks\\final project\\training_iti\\training_iti\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|solutionrelative:training_iti\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|e:\\iti tasks\\final project\\training_iti\\training_iti\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|solutionrelative:training_iti\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|e:\\iti tasks\\final project\\training_iti\\training_iti\\models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|solutionrelative:training_iti\\models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|e:\\iti tasks\\final project\\training_iti\\training_iti\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|solutionrelative:training_iti\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|e:\\iti tasks\\final project\\training_iti\\training_iti\\models\\startnotinpastattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|solutionrelative:training_iti\\models\\startnotinpastattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|e:\\iti tasks\\final project\\training_iti\\training_iti\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|solutionrelative:training_iti\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|e:\\iti tasks\\final project\\training_iti\\training_iti\\models\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|solutionrelative:training_iti\\models\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|e:\\iti tasks\\final project\\training_iti\\training_iti\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|solutionrelative:training_iti\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|e:\\iti tasks\\final project\\training_iti\\training_iti\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|solutionrelative:training_iti\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|e:\\iti tasks\\final project\\training_iti\\training_iti\\data\\migrations\\20250822154519_initialcreate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|solutionrelative:training_iti\\data\\migrations\\20250822154519_initialcreate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|e:\\iti tasks\\final project\\training_iti\\training_iti\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|solutionrelative:training_iti\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|e:\\iti tasks\\final project\\training_iti\\training_iti\\training_iti.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E594CBFF-9A48-4EE4-B806-909AF71B9AD3}|Training_ITI\\Training_ITI.csproj|solutionrelative:training_iti\\training_iti.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Training_ITI\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Training_ITI\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T20:19:49.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Training_ITI\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Training_ITI\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T20:19:28.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Views\\Sessions\\Index.cshtml",
+              "RelativeDocumentMoniker": "Training_ITI\\Views\\Sessions\\Index.cshtml",
+              "ToolTip": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Views\\Sessions\\Index.cshtml",
+              "RelativeToolTip": "Training_ITI\\Views\\Sessions\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T16:00:31.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Training_ITI\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Training_ITI\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T16:11:30.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Training_ITI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Training_ITI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T15:51:48.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "Training_ITI\\Controllers\\CoursesController.cs",
+              "ToolTip": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "Training_ITI\\Controllers\\CoursesController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAADwv40AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T15:49:24.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Program.cs",
+              "RelativeDocumentMoniker": "Training_ITI\\Program.cs",
+              "ToolTip": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Program.cs",
+              "RelativeToolTip": "Training_ITI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T15:05:50.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Training_ITI\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Training_ITI\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T16:11:48.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Training_ITI\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Training_ITI\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T20:33:31.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.css",
+              "DocumentMoniker": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Training_ITI\\wwwroot\\css\\site.css",
+              "ToolTip": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Training_ITI\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAL8AAAAAAAAAAAAIwM0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-22T20:14:00.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Training_ITI\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Training_ITI\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T20:19:32.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Training_ITI\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Training_ITI\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T20:19:44.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Views\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "Training_ITI\\Views\\Users\\Create.cshtml",
+              "ToolTip": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Views\\Users\\Create.cshtml",
+              "RelativeToolTip": "Training_ITI\\Views\\Users\\Create.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwBUAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T16:05:43.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Training_ITI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Training_ITI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T15:53:04.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SessionsController.cs",
+              "DocumentMoniker": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Controllers\\SessionsController.cs",
+              "RelativeDocumentMoniker": "Training_ITI\\Controllers\\SessionsController.cs",
+              "ToolTip": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Controllers\\SessionsController.cs",
+              "RelativeToolTip": "Training_ITI\\Controllers\\SessionsController.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAiwGsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T15:50:11.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GradesController.cs",
+              "DocumentMoniker": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Controllers\\GradesController.cs",
+              "RelativeDocumentMoniker": "Training_ITI\\Controllers\\GradesController.cs",
+              "ToolTip": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Controllers\\GradesController.cs",
+              "RelativeToolTip": "Training_ITI\\Controllers\\GradesController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAADwv4UAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T15:51:07.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "dbo.Users [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/./TrainingManagementDb/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "dbo.Users [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-22T20:05:19.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Training_ITI\\Controllers\\UsersController.cs",
+              "ToolTip": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Training_ITI\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T15:50:40.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Views\\Sessions\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Training_ITI\\Views\\Sessions\\Edit.cshtml",
+              "ToolTip": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Views\\Sessions\\Edit.cshtml",
+              "RelativeToolTip": "Training_ITI\\Views\\Sessions\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T16:03:20.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Views\\Sessions\\Create.cshtml",
+              "RelativeDocumentMoniker": "Training_ITI\\Views\\Sessions\\Create.cshtml",
+              "ToolTip": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Views\\Sessions\\Create.cshtml",
+              "RelativeToolTip": "Training_ITI\\Views\\Sessions\\Create.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T16:02:47.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "00000000000000_CreateIdentitySchema.Designer.cs",
+              "DocumentMoniker": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "RelativeDocumentMoniker": "Training_ITI\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "ToolTip": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "RelativeToolTip": "Training_ITI\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T16:27:59.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250822153715_InitialCreate.Designer.cs",
+              "DocumentMoniker": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Data\\Migrations\\20250822153715_InitialCreate.Designer.cs",
+              "RelativeDocumentMoniker": "Training_ITI\\Data\\Migrations\\20250822153715_InitialCreate.Designer.cs",
+              "ToolTip": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Data\\Migrations\\20250822153715_InitialCreate.Designer.cs",
+              "RelativeToolTip": "Training_ITI\\Data\\Migrations\\20250822153715_InitialCreate.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T16:28:14.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250822154304_InitialCreate1.Designer.cs",
+              "DocumentMoniker": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Data\\Migrations\\20250822154304_InitialCreate1.Designer.cs",
+              "RelativeDocumentMoniker": "Training_ITI\\Data\\Migrations\\20250822154304_InitialCreate1.Designer.cs",
+              "ToolTip": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Data\\Migrations\\20250822154304_InitialCreate1.Designer.cs",
+              "RelativeToolTip": "Training_ITI\\Data\\Migrations\\20250822154304_InitialCreate1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T16:28:19.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Views\\Users\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Training_ITI\\Views\\Users\\Delete.cshtml",
+              "ToolTip": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Views\\Users\\Delete.cshtml",
+              "RelativeToolTip": "Training_ITI\\Views\\Users\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T16:07:22.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Views\\Users\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Training_ITI\\Views\\Users\\Edit.cshtml",
+              "ToolTip": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Views\\Users\\Edit.cshtml",
+              "RelativeToolTip": "Training_ITI\\Views\\Users\\Edit.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwBcAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T16:06:34.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "Training_ITI\\Views\\Users\\Index.cshtml",
+              "ToolTip": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "Training_ITI\\Views\\Users\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T16:04:52.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\appsettings.json",
+              "RelativeDocumentMoniker": "Training_ITI\\appsettings.json",
+              "ToolTip": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\appsettings.json",
+              "RelativeToolTip": "Training_ITI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-22T15:05:29.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Training_ITI\\Data\\AppDbContext.cs",
+              "ToolTip": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Training_ITI\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T15:12:44.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Views\\Sessions\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Training_ITI\\Views\\Sessions\\Delete.cshtml",
+              "ToolTip": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Views\\Sessions\\Delete.cshtml",
+              "RelativeToolTip": "Training_ITI\\Views\\Sessions\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T16:04:07.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SessionFormVM.cs",
+              "DocumentMoniker": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\ViewModels\\SessionFormVM.cs",
+              "RelativeDocumentMoniker": "Training_ITI\\ViewModels\\SessionFormVM.cs",
+              "ToolTip": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\ViewModels\\SessionFormVM.cs",
+              "RelativeToolTip": "Training_ITI\\ViewModels\\SessionFormVM.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T15:48:05.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Views\\Grades\\Index.cshtml",
+              "RelativeDocumentMoniker": "Training_ITI\\Views\\Grades\\Index.cshtml",
+              "ToolTip": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Views\\Grades\\Index.cshtml",
+              "RelativeToolTip": "Training_ITI\\Views\\Grades\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T16:07:58.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Views\\Grades\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Training_ITI\\Views\\Grades\\Edit.cshtml",
+              "ToolTip": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Views\\Grades\\Edit.cshtml",
+              "RelativeToolTip": "Training_ITI\\Views\\Grades\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T16:09:14.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Views\\Grades\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Training_ITI\\Views\\Grades\\Delete.cshtml",
+              "ToolTip": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Views\\Grades\\Delete.cshtml",
+              "RelativeToolTip": "Training_ITI\\Views\\Grades\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T16:09:53.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Views\\Grades\\Create.cshtml",
+              "RelativeDocumentMoniker": "Training_ITI\\Views\\Grades\\Create.cshtml",
+              "ToolTip": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Views\\Grades\\Create.cshtml",
+              "RelativeToolTip": "Training_ITI\\Views\\Grades\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T16:08:47.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Views\\Courses\\Index.cshtml",
+              "RelativeDocumentMoniker": "Training_ITI\\Views\\Courses\\Index.cshtml",
+              "ToolTip": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Views\\Courses\\Index.cshtml",
+              "RelativeToolTip": "Training_ITI\\Views\\Courses\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T15:54:03.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Views\\Courses\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Training_ITI\\Views\\Courses\\Edit.cshtml",
+              "ToolTip": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Views\\Courses\\Edit.cshtml",
+              "RelativeToolTip": "Training_ITI\\Views\\Courses\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T15:58:55.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Views\\Courses\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Training_ITI\\Views\\Courses\\Delete.cshtml",
+              "ToolTip": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Views\\Courses\\Delete.cshtml",
+              "RelativeToolTip": "Training_ITI\\Views\\Courses\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T15:59:47.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Views\\Courses\\Create.cshtml",
+              "RelativeDocumentMoniker": "Training_ITI\\Views\\Courses\\Create.cshtml",
+              "ToolTip": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Views\\Courses\\Create.cshtml",
+              "RelativeToolTip": "Training_ITI\\Views\\Courses\\Create.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T15:55:01.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "GradeFormVM.cs",
+              "DocumentMoniker": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\ViewModels\\GradeFormVM.cs",
+              "RelativeDocumentMoniker": "Training_ITI\\ViewModels\\GradeFormVM.cs",
+              "ToolTip": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\ViewModels\\GradeFormVM.cs",
+              "RelativeToolTip": "Training_ITI\\ViewModels\\GradeFormVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T15:48:45.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CourseFormVM.cs",
+              "DocumentMoniker": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\ViewModels\\CourseFormVM.cs",
+              "RelativeDocumentMoniker": "Training_ITI\\ViewModels\\CourseFormVM.cs",
+              "ToolTip": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\ViewModels\\CourseFormVM.cs",
+              "RelativeToolTip": "Training_ITI\\ViewModels\\CourseFormVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T15:47:25.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Training_ITI\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "Training_ITI\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T15:18:17.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Repositories\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Training_ITI\\Repositories\\IUnitOfWork.cs",
+              "ToolTip": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Repositories\\IUnitOfWork.cs",
+              "RelativeToolTip": "Training_ITI\\Repositories\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T15:17:28.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Training_ITI\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "Training_ITI\\Repositories\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T15:15:39.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Training_ITI\\Repositories\\GenericRepository.cs",
+              "ToolTip": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Training_ITI\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T15:16:38.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Training_ITI\\Models\\User.cs",
+              "ToolTip": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Models\\User.cs",
+              "RelativeToolTip": "Training_ITI\\Models\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T15:09:11.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Session.cs",
+              "DocumentMoniker": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Models\\Session.cs",
+              "RelativeDocumentMoniker": "Training_ITI\\Models\\Session.cs",
+              "ToolTip": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Models\\Session.cs",
+              "RelativeToolTip": "Training_ITI\\Models\\Session.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T15:08:20.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Models\\Grade.cs",
+              "RelativeDocumentMoniker": "Training_ITI\\Models\\Grade.cs",
+              "ToolTip": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Models\\Grade.cs",
+              "RelativeToolTip": "Training_ITI\\Models\\Grade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T15:09:38.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "StartNotInPastAttribute.cs",
+              "DocumentMoniker": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Models\\StartNotInPastAttribute.cs",
+              "RelativeDocumentMoniker": "Training_ITI\\Models\\StartNotInPastAttribute.cs",
+              "ToolTip": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Models\\StartNotInPastAttribute.cs",
+              "RelativeToolTip": "Training_ITI\\Models\\StartNotInPastAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T15:11:10.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Training_ITI\\Models\\ErrorViewModel.cs",
+              "ToolTip": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Training_ITI\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T15:19:49.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Models\\Enums.cs",
+              "RelativeDocumentMoniker": "Training_ITI\\Models\\Enums.cs",
+              "ToolTip": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Models\\Enums.cs",
+              "RelativeToolTip": "Training_ITI\\Models\\Enums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T15:07:12.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Course.cs",
+              "DocumentMoniker": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Training_ITI\\Models\\Course.cs",
+              "ToolTip": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Models\\Course.cs",
+              "RelativeToolTip": "Training_ITI\\Models\\Course.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T15:07:47.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Training_ITI\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Training_ITI\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T16:22:32.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "20250822154519_InitialCreate2.cs",
+              "DocumentMoniker": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Data\\Migrations\\20250822154519_InitialCreate2.cs",
+              "RelativeDocumentMoniker": "Training_ITI\\Data\\Migrations\\20250822154519_InitialCreate2.cs",
+              "ToolTip": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Data\\Migrations\\20250822154519_InitialCreate2.cs",
+              "RelativeToolTip": "Training_ITI\\Data\\Migrations\\20250822154519_InitialCreate2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T16:22:29.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "00000000000000_CreateIdentitySchema.cs",
+              "DocumentMoniker": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeDocumentMoniker": "Training_ITI\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ToolTip": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeToolTip": "Training_ITI\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T16:22:22.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Training_ITI",
+              "DocumentMoniker": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Training_ITI.csproj",
+              "RelativeDocumentMoniker": "Training_ITI\\Training_ITI.csproj",
+              "ToolTip": "E:\\ITI tasks\\Final project\\Training_ITI\\Training_ITI\\Training_ITI.csproj",
+              "RelativeToolTip": "Training_ITI\\Training_ITI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-22T15:33:45.701Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

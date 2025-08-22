@@ -1,0 +1,55 @@
+﻿@model IEnumerable<Training_ITI.Models.Session>
+@{
+    ViewData["Title"] = "Sessions";
+}
+
+<!-- Navbar -->
+
+<div class="container-sessions">
+    <div class="shape one"></div>
+    <div class="shape two"></div>
+    <div class="shape three"></div>
+
+    <h2 class="text-center mb-4">Sessions</h2>
+
+    <form method="get" class="row g-2 mb-4">
+        <div class="col-md-4">
+            <input name="course" value="@ViewBag.Course" class="form-control" placeholder="Search by course name" />
+        </div>
+        <div class="col-auto">
+            <button class="btn btn-primary btn-custom" type="submit">Search</button>
+        </div>
+        <div class="col-auto">
+            <a asp-action="Create" class="btn btn-success btn-custom">Add Session</a>
+        </div>
+    </form>
+
+    <table class="table table-striped table-custom">
+        <thead>
+            <tr>
+                <th>Course</th>
+                <th>Start</th>
+                <th>End</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var s in Model)
+            {
+                <tr>
+                    <td>@s.Course?.Name</td>
+                    <td>@s.StartDate.ToString("yyyy-MM-dd")</td>
+                    <td>@s.EndDate.ToString("yyyy-MM-dd")</td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@s.Id" class="btn btn-warning btn-custom">
+                            <i class="bi bi-pencil-square"></i> Edit
+                        </a>
+                        <a asp-action="Delete" asp-route-id="@s.Id" class="btn btn-danger btn-custom">
+                            <i class="bi bi-trash"></i> Delete
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

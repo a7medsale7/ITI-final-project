@@ -1,0 +1,35 @@
+﻿@model Training_ITI.ViewModels.GradeFormVM
+@{
+    ViewData["Title"] = "Create Grade";
+}
+<h2>@ViewData["Title"]</h2>
+
+<form asp-action="Create" method="post" class="row g-3">
+
+    <div class="col-md-6">
+        <label asp-for="SessionId" class="form-label"></label>
+        <select asp-for="SessionId" asp-items="Model.Sessions" class="form-select"></select>
+        <span asp-validation-for="SessionId" class="text-danger"></span>
+    </div>
+
+    <div class="col-md-6">
+        <label asp-for="TraineeId" class="form-label"></label>
+        <select asp-for="TraineeId" asp-items="Model.Trainees" class="form-select"></select>
+        <span asp-validation-for="TraineeId" class="text-danger"></span>
+    </div>
+
+    <div class="col-md-4">
+        <label asp-for="Value" class="form-label"></label>
+        <input asp-for="Value" class="form-control" />
+        <span asp-validation-for="Value" class="text-danger"></span>
+    </div>
+
+    <div class="col-12">
+        <button class="btn btn-primary" type="submit">Create</button>
+        <a asp-action="Index" class="btn btn-secondary">Back</a>
+    </div>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

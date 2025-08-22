@@ -1,0 +1,210 @@
+﻿/* Reset بسيط */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Body عام */
+body {
+    background: linear-gradient(135deg, #eef2f3, #8e9eab);
+    min-height: 100vh;
+    overflow-x: hidden;
+}
+
+    /* فقط للصفحة الرئيسية */
+    body.home-page {
+        background: linear-gradient(135deg, #89f7fe, #66a6ff);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        overflow: hidden;
+    }
+
+/* Navbar مركزي */
+.navbar {
+    background: linear-gradient(90deg, #3498db, #2980b9);
+    padding: 15px 50px;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+}
+
+    .navbar .container-fluid {
+        display: flex;
+        justify-content: center;
+    }
+
+.navbar-nav {
+    display: flex;
+    gap: 2.5rem;
+}
+
+    .navbar-nav .nav-link {
+        font-size: 1.5rem;
+        font-weight: bold;
+        color: #fff;
+        text-transform: uppercase;
+        transition: all 0.3s ease;
+        position: relative;
+    }
+
+        .navbar-nav .nav-link:hover {
+            color: #f1c40f;
+        }
+
+        .navbar-nav .nav-link::after {
+            content: '';
+            position: absolute;
+            left: 0;
+            bottom: -5px;
+            width: 0;
+            height: 3px;
+            background: #f1c40f;
+            border-radius: 2px;
+            transition: width 0.4s ease;
+        }
+
+        .navbar-nav .nav-link:hover::after {
+            width: 100%;
+        }
+
+    /* Animation عند الدخول */
+    .navbar-nav .nav-link {
+        transform: translateY(-20px);
+        opacity: 0;
+        animation: slideIn 0.8s forwards;
+    }
+
+    .navbar-nav .nav-item:nth-child(1) .nav-link {
+        animation-delay: 0.1s;
+    }
+
+    .navbar-nav .nav-item:nth-child(2) .nav-link {
+        animation-delay: 0.2s;
+    }
+
+    .navbar-nav .nav-item:nth-child(3) .nav-link {
+        animation-delay: 0.3s;
+    }
+
+    .navbar-nav .nav-item:nth-child(4) .nav-link {
+        animation-delay: 0.4s;
+    }
+
+    .navbar-nav .nav-item:nth-child(5) .nav-link {
+        animation-delay: 0.5s;
+    }
+
+@keyframes slideIn {
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+/* Hero Section */
+.hero-container {
+    text-align: center;
+    background: rgba(255, 255, 255, 0.9);
+    padding: 60px 80px;
+    border-radius: 25px;
+    box-shadow: 0 15px 50px rgba(0,0,0,0.25);
+    transform: scale(0);
+    animation: fadeInScale 1s forwards;
+    max-width: 800px;
+}
+
+@keyframes fadeInScale {
+    to {
+        transform: scale(1);
+    }
+}
+
+.hero-container h1 {
+    font-size: 3.5rem;
+    color: #34495e;
+    margin-bottom: 25px;
+    display: inline-block;
+    transition: all 0.3s ease;
+}
+
+    .hero-container h1:hover {
+        color: #3498db;
+        transform: scale(1.05);
+    }
+
+    .hero-container h1::after {
+        content: '';
+        width: 0;
+        height: 5px;
+        background: linear-gradient(90deg, #3498db, #8e44ad);
+        display: block;
+        margin: 10px auto 0;
+        border-radius: 3px;
+        transition: width 0.5s;
+    }
+
+    .hero-container h1:hover::after {
+        width: 60%;
+    }
+
+.hero-container p {
+    font-size: 1.3rem;
+    color: #2c3e50;
+    margin-bottom: 35px;
+    line-height: 1.6;
+    transition: color 0.3s ease;
+}
+
+    .hero-container p:hover {
+        color: #8e44ad;
+    }
+
+/* Animated floating shapes */
+.shape {
+    position: absolute;
+    border-radius: 50%;
+    opacity: 0.15;
+    animation: float 7s ease-in-out infinite;
+    z-index: -1;
+}
+
+    .shape.one {
+        width: 150px;
+        height: 150px;
+        background: #3498db;
+        top: 5%;
+        left: 10%;
+        animation-delay: 0s;
+    }
+
+    .shape.two {
+        width: 120px;
+        height: 120px;
+        background: #e74c3c;
+        top: 70%;
+        left: 80%;
+        animation-delay: 2s;
+    }
+
+    .shape.three {
+        width: 130px;
+        height: 130px;
+        background: #f1c40f;
+        top: 50%;
+        left: 50%;
+        animation-delay: 4s;
+    }
+
+@keyframes float {
+    0%, 100% {
+        transform: translateY(0) rotate(0deg);
+    }
+
+    50% {
+        transform: translateY(-25px) rotate(45deg);
+    }
+}

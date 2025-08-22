@@ -1,0 +1,40 @@
+﻿@model IEnumerable<Training_ITI.Models.Course>
+@{
+    ViewData["Title"] = "Courses";
+}
+<h2>Courses</h2>
+
+<form method="get" class="row g-2 mb-3">
+    <div class="col">
+        <input name="search" value="@ViewBag.Search" class="form-control" placeholder="Search by name" />
+    </div>
+    <div class="col">
+        <input name="category" value="@ViewBag.Category" class="form-control" placeholder="Search by category" />
+    </div>
+    <div class="col-auto">
+        <button class="btn btn-primary" type="submit">Search</button>
+    </div>
+    <div class="col-auto">
+        <a asp-action="Create" class="btn btn-success">Add Course</a>
+    </div>
+</form>
+
+<table class="table table-striped">
+    <thead>
+        <tr><th>Name</th><th>Category</th><th>Instructor</th><th></th></tr>
+    </thead>
+    <tbody>
+        @foreach (var c in Model)
+        {
+            <tr>
+                <td>@c.Name</td>
+                <td>@c.Category</td>
+                <td>@c.Instructor?.Name</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@c.Id" class="btn btn-sm btn-warning">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@c.Id" class="btn btn-sm btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

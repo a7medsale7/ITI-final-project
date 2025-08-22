@@ -1,0 +1,34 @@
+﻿@model Training_ITI.ViewModels.SessionFormVM
+@{
+    ViewData["Title"] = "Create Session";
+}
+<h2>@ViewData["Title"]</h2>
+
+<form asp-action="Create" method="post" class="row g-3">
+    <div class="col-md-6">
+        <label asp-for="CourseId" class="form-label"></label>
+        <select asp-for="CourseId" asp-items="Model.Courses" class="form-select"></select>
+        <span asp-validation-for="CourseId" class="text-danger"></span>
+    </div>
+
+    <div class="col-md-6">
+        <label asp-for="StartDate" class="form-label"></label>
+        <input asp-for="StartDate" class="form-control" />
+        <span asp-validation-for="StartDate" class="text-danger"></span>
+    </div>
+
+    <div class="col-md-6">
+        <label asp-for="EndDate" class="form-label"></label>
+        <input asp-for="EndDate" class="form-control" />
+        <span asp-validation-for="EndDate" class="text-danger"></span>
+    </div>
+
+    <div class="col-12">
+        <button class="btn btn-success" type="submit">Create</button>
+        <a asp-action="Index" class="btn btn-secondary">Back</a>
+    </div>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

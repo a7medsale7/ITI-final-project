@@ -1,0 +1,12 @@
+﻿@model Training_ITI.Models.Course
+@{
+    ViewData["Title"] = "Delete Course";
+}
+<h3>Delete Course</h3>
+<div class="alert alert-warning">
+    Are you sure you want to delete <strong>@Model.Name</strong>?
+</div>
+<form method="post">
+    <button class="btn btn-danger" type="submit">Delete</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>
